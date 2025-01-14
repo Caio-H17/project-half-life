@@ -288,7 +288,7 @@ footer{
 
     #banner{
         width: 100%;
-        height: 450px;
+        height: 700px;
         justify-content: center;
     }
     
@@ -329,6 +329,7 @@ footer{
     h1{
         width: 100%;
         letter-spacing: 10px;
+        margin-top: 50px;
     }
     
     .cards-content{
@@ -370,7 +371,7 @@ footer{
 
     #banner{
         width: 100%;
-        height: 450px;
+        height: 700px;
         justify-content: center;
     }    
 
@@ -411,6 +412,7 @@ footer{
     h1{
         width: 100%;
         letter-spacing: 10px;
+        margin-top: 50px;
     }
     
     .cards-content{
